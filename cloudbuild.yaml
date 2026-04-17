@@ -18,6 +18,6 @@ options:
 
 substitutions:
   _DAGS_DIRECTORY: "workflows/"
-  _DAGS_BUCKET: "pi-data-challenge-2026" # Replace with your Composer bucket
+  _DAGS_BUCKET: "southamerica-east1-demo-ins-94bee0d9-" # Replace with your Composer bucket
   _DATA_DIRECTORY: "data/"
 
