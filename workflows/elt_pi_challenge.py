@@ -5,7 +5,7 @@ from airflow.providers.http.operators.http import HttpOperator
 from airflow.providers.google.cloud.operators.bigquery import BigQueryInsertJobOperator
 
 PROJECT_ID = "project-1d5fe13d-8034-4422-8f5"
-LOCATION = "US"
+LOCATION = "southamerica-east1"
 
 BRONZE_DATASET = "bronze_dataset"
 SILVER_DATASET = "silver_dataset"
