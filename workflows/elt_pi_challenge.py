@@ -6,7 +6,7 @@ from airflow.providers.google.cloud.operators.dataproc import DataprocSubmitJobO
 
 PROJECT_ID = "project-1d5fe13d-8034-4422-8f5"
 REGION = "us-east1"
-CLUSTER_NAME = "my-demo-cluster3"
+CLUSTER_NAME = "spark-dev-single"
 
 BUCKET = "pi-data-challenge-2026"
 
